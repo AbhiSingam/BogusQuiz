@@ -8,4 +8,4 @@ BogusQuiz can be used for anything from the bogus online quizzes that tell you h
 
 ## How are we making BogusQuiz?
 
-BogusQuiz is a program that Tushar (@Tushar994) and I created because we were bored of doing our probability assignment. It's coded entirely in C and will probably take forever to finish since we only have so many probability assignments to do.
+BogusQuiz is a program that Tushar (@tushar994) and I created because we were bored of doing our probability assignment. It's coded entirely in C and will probably take forever to finish since we only have so many probability assignments to do.
