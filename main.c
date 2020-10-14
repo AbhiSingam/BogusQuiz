@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("1.c\n");
+  printf("Welcome to BogusQuiz\n");
   return 0;
 }
